@@ -1,4 +1,6 @@
 # Google-Cloud
-### Prediction of cryptocurrency using Google Cloud Platform
+## Price Forecasting & Analysis of Ethereum and Bitcoin
+
+
 
 ![pic1](picture/BE.webp)
